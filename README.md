@@ -31,7 +31,7 @@ In *The Heist*, your mission is to **download classified binary police files** a
 ## 📥 Download
 
 ### ▶ Play or Download from Itch.io  
-[**The Heist on Itch.io**]([https://example-link.com](https://noamcohen54.itch.io/the-heist))  
+[**The Heist on Itch.io**](https://noamcohen54.itch.io/the-heist)
 
 ### 💾 Download from GitHub  
 - [Download The Heist v1.0 (Windows ZIP)](https://github.com/NoamCohen54/The_Heist/releases/download/TheHeist_v1.0/The_Heist.zip)  
